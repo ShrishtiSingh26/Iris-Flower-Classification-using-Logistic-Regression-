@@ -74,5 +74,5 @@ pip install -r requirements.txt
 Run the main script:
 ```bash
 
-python iris_classification.py
+python Iris_Species_Classification_(Classification).ipynb
 ```
