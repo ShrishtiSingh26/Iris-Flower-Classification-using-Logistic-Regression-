@@ -19,6 +19,9 @@ Versicolor
 Virginica
 The dataset is included with `scikit-learn` and can be loaded using `load_iris()`.
 
+![image](https://github.com/user-attachments/assets/f22d7b6e-07d0-488d-b70d-66971d16ac3d)
+
+
 ## Solution Approach
 
 The solution involves the following steps:
@@ -45,6 +48,7 @@ where requirements.txt contains:
 scikit-learn
 matplotlib
 seaborn
+pandas
 ```
 
 ## Results
