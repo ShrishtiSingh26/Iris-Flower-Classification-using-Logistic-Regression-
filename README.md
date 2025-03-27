@@ -1,5 +1,4 @@
-# AI-Club-Technical-Team-Task-round
-### Iris Flower Classification
+# Iris Flower Classification
 This project classifies iris flowers into one of three species **Setosa, Versicolor, and Virginica** based on four features: sepal length, sepal width, petal length, and petal width. The dataset and model development follow a standard machine learning workflow, using Python and scikit-learn.
 
 ## Project Overview
